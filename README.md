@@ -51,13 +51,6 @@
         "sendAmount": 10000,
         "receiverUserNo": 4,
         "receiverUserName": "유저4"
-    },
-    {
-        "senderUserNo": 3,
-        "senderUserName": "유저3",
-        "sendAmount": 10000,
-        "receiverUserNo": 4,
-        "receiverUserName": "유저4"
     }
 ]
 ```
